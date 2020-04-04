@@ -1,9 +1,21 @@
 ﻿<Properties StartupConfiguration="{A0324494-AEA9-42E7-8B03-9B9F3B5D5E93}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp/bin/Debug/netstandard2.1/Properties/launchSettings.json">
+    <Files>
+      <File FileName="BlazorApp/wwwroot/index.html" Line="8" Column="27" />
+      <File FileName="BlazorApp/Properties/launchSettings.json" Line="6" Column="58" />
+      <File FileName="BlazorApp/bin/Debug/netstandard2.1/Properties/launchSettings.json" Line="6" Column="49" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="hosting-blazor-apps-on-github-pages" expanded="True" selected="True" />
+          <Node name="hosting-blazor-apps-on-github-pages" expanded="True">
+            <Node name="BlazorApp" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

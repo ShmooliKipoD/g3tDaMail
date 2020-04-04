@@ -3,18 +3,18 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:54917/hosting-blazor-apps-on-github-pages/",
-      "sslPort": 44368
+        "applicationUrl": "http://localhost:54917/g3tDaMail/",
+        "sslPort": 44368
     }
   },
   "profiles": {
     "IIS Express": {
-      "commandName": "IISExpress",
-      "commandLineArgs": "--contentroot=/hosting-blazor-apps-on-github-pages",
-      "launchBrowser": true,
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+        "commandName": "IISExpress",
+        "commandLineArgs": "--contentroot=/g3tDaMail",
+        "launchBrowser": true,
+        "environmentVariables": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        }
     },
     "BlazorApp": {
       "commandName": "Project",
